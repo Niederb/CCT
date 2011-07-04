@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Mainscreen!</string>
+    <string name="app_name">vTalk</string>
+    <string name="talk.hello">Hallo Welt</string>
+    <string name="social.name">Mein Name ist Thomas Niederberger</string>
+    <string name="home.kitchen.spoon">Löffel</string>
+    <string name="fruit.kiwi">Kiwi</string>
+    <string name="emotion.happy">Glücklich</string>
+</resources>
