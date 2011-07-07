@@ -1,4 +1,4 @@
-package ch.niederb.cct;
+package ch.niederb.android.cct;
 
 import java.util.HashMap;
 

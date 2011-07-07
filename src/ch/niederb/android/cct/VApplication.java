@@ -1,4 +1,4 @@
-package ch.niederb.cct;
+package ch.niederb.android.cct;
 
 import android.app.Application;
 import android.content.Context;
